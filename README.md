@@ -1,4 +1,4 @@
-# Google-Colab_8
+# Google-Colab-8
 Using VGGFace for face recognition.
 The steps are as follows.
 
